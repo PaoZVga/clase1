@@ -1,0 +1,15 @@
+:root {
+  --fondo: #d9d7dd;
+  --fuente: "Rubik", sans-serif;
+}
+
+html {
+  background-color: var(--fondo);
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 16px; /* 1rem = 10px */
+  font-family: var(--fuente);
+  text-align: center;
+}
